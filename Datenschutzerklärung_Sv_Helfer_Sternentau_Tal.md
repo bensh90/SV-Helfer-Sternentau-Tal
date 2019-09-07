@@ -43,6 +43,8 @@ Fremddienste
 
 In der App sind keinerlei Fremddienste integriert. Es werden keinerlei Daten über den Anwender oder sein Nutzungverhalten  der Anwendung gesammelt oder an Dritte weitergeleitet. Ebenso wird keine Werbung oder ähnliche externe Angebote in der App angeboten. Es wird zu keinem Zeitpunkt Informationen über Nutzer gesammelt oder gespeichert.
 
+Persönliche Daten
+Es wird zu keinem Zeitpunkt Informationen über Nutzer gesammelt oder gespeichert.
 
 IV. Sonstiges
 
