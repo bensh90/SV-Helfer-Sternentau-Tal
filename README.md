@@ -49,6 +49,9 @@ sein Nutzungverhalten  der Anwendung gesammelt oder an Dritte weitergeleitet. Eb
 Werbung oder ähnliche externe Angebote in der App angeboten. Es wird zu keinem Zeitpunkt Informationen 
 über Nutzer gesammelt oder gespeichert.
 
+Persönliche Daten
+Es wird zu keinem Zeitpunkt Informationen über Nutzer gesammelt oder gespeichert.
+
 IV. Sonstiges
 
 Einstufung des Inhalts der App
