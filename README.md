@@ -8,7 +8,7 @@ Informationen über den Verantwortlichen
 
 Verantwortlicher Anbieter dieser Software ist:
 Benjamin Lissek
-Gildenstraße 2
+Johannesstr 4
 44866 Bochum
 
 Deutschland
